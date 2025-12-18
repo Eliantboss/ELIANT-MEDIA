@@ -1,0 +1,7 @@
+{
+  "name": "Vivid Moments - Cinematic AI Image Editor",
+  "description": "Transform your photos into high-end cinematic scenes with Gemini 2.5 Flash Image. This professional tool maintains subject identity while placing them in dreamy, ultra-realistic environments with advanced editing capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
